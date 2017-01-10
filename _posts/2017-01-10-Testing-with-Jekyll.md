@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Eddie the sheep, posts first blog"
+title: "Eddie the sheep, posts first article"
 date: 2017-01-10
 ---
 
